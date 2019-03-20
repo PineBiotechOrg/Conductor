@@ -1,0 +1,50 @@
+#conductor-back-button {
+    margin-bottom: 15px;
+    border: none;
+    padding: 0;
+}
+
+.bp-login-widget-user-links {
+	display: inline-block;
+	padding-left: 1em;
+}
+
+.conductor_user_meta_widget {
+
+    border: 1px solid #ccc;
+
+}
+
+.conductor_user_meta_widget .widget-title {
+	margin: 0;
+}
+
+.conductor-user-meta-widget-user-avatar {
+	padding: 6px 1em;
+	background-color: #f3f3f3;
+}
+
+.conductor-user-meta-widget-user-avatar a {
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.conductor-user-menu .user-dropdown-item a {
+    float: left;
+    width: 100%;
+    text-align: left;
+    padding: 6px 1em;
+    margin-bottom: 3px;
+    border-bottom: 1px solid #ccc;
+}
+
+.conductor-user-menu .user-dropdown-item:last-child a {
+
+	border-bottom: none;
+
+}
+
+.menu-item a {
+    position: relative;
+    display: inline-block;
+}
